@@ -21,6 +21,10 @@ export default function Home(){
       <h1>Revisão</h1>
       <p>TESTESTESTESTESTESTESTESTESTES</p>
 
+      <hr/>
+      <hr/>
+      <p style={{backgroundColor:"yellow"}} >PEGAA</p>
+
     <form onSubmit={(e)=> enviarformulario(e)} >
       <p>{nome}</p>
       <label>
